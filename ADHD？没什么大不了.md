@@ -116,7 +116,7 @@ neurotransmitter photo [^c]
 - 行为现象的症状
 - lack of social 
 - rule abidden 
-- cognitive deficit 思考障碍
+- cognitive deficit 认知障碍
 
 
 ----
