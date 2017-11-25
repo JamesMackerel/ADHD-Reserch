@@ -123,6 +123,16 @@ neurotransmitter photo [^c]
 
 #### **多动症疗法**
 
+参考链接“
+
+ https://www.weforum.org/agenda/2017/05/five-reasons-the-future-of-brain-enhancement-is-digital-pervasive-and-hopefully-bright/
+
+[大自然疗法](https://www.weforum.org/agenda/2017/03/nature-boosts-your-health/)
+
+通过生活在大自然的环境中，远离城市快节奏的生活环境，多方面的辐射干扰还有人群的复杂性和生活方式的多样子。让生活回归到一个极简的生活方式从而通过放缓行动方式，思考速度来置缓生活的节奏。这种方式用行动的回馈来调节大脑的运作方式。比如说，外界条件需要你用手套来拿炙热的铁盘因为你被烫到了，以后你就会调节你的思考方式来明白在拿烤盘的之前要先带好手套防止被烫到
+
+
+
 treatment photo listing [^e]
 
 常用自身调节方法
@@ -167,11 +177,11 @@ treatment photo listing [^e]
 
 **相关参考书籍**
 
-关于心理疾病的病理案例诊断手册[^3]
+[Attention Deficit Hyperactivity Disorder(ADHD)](https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd/index.shtml)
 
-https://www.psychiatry.org/psychiatrists/practice/dsm
+[关于心理疾病的病理案例诊断手册](https://www.psychiatry.org/psychiatrists/practice/dsm)
 
-
+[提高专注力时长的办法](https://www.weforum.org/agenda/2016/02/can-you-lengthen-your-attention-span)
 
 
 
@@ -188,7 +198,7 @@ Reference：
 [^e]: https://image.flaticon.com/icons/png/512/81/81665.png
 [^1]: https://zh.wikipedia.org/wiki/%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%B8%8D%E8%B6%B3%E9%81%8E%E5%8B%95%E7%97%87
 [^2]: 
-[^3]: https://www.psychiatry.org/psychiatrists/practice/dsm
+[^3]: 
 
 
 
