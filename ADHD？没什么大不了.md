@@ -28,6 +28,20 @@ ADHD？没什么大不了
 
 从心理诊断角度来说，一般表现出来的行为持续需要超过六个月以上才可以称作把不合理的行为称作症状。
 
+
+
+从全世界人口的发病率来看，多动症的占比估摸达到16%。 而美国则给出了相当全面的统计。
+
+图片1，2
+
+https://www.healthline.com/hlcmsresource/images/topic_centers/adhd/adhd-stats/Location_2_ADHD-Stats.jpg
+
+https://www.healthline.com/hlcmsresource/images/topic_centers/adhd/adhd-stats/Location_1_ADHD-Stats.jpg
+
+（main web for the image https://www.healthline.com/health/adhd/facts-statistics-infographic) 
+
+
+
 ----
 
 ## **注意力障碍** (Attention deficit) 和 过动冲动 (Hypotheticity)**
