@@ -1,10 +1,10 @@
-#ADHD？没什么大不了
+ADHD？没什么大不了
 
 *主题：为什么多动症并不是一种特殊的不能痊愈疾病，而是和感冒一般，我们不能把它当作一个可以炫耀作为特别的自己来对待，也不可以因为有ADHD而对生活灰心丧气。不同于其他的疾病，这是一种可以控制，可以治愈的疾病。至于如何去分析和去治疗，以下均有详细分析*
 
 
 
-*cover图片[^a]*
+![cover图片](https://www.sovhealth.com/wp-content/uploads/2017/06/Diagnosing-ADHD-in-adult-patients-is-challenging.jpg)
 
 [TOC]
 
@@ -18,7 +18,7 @@
 
 多动症并不是代表着一种典型的症状个体，而是又多种行为症状表现而导致的一种疾病，所以定义多动症的界限虽然是固定的，但是它的行为准则的定义上确实模糊的，不具有非常典型的代表性。
 
-图片b图表统计[^b]
+![图片b图表统计](http://adhd-institute.com/wp-content/uploads/2016/09/b-rate-of-cortical-maturation.jpg)
 
 
 
@@ -32,7 +32,7 @@
 
 ## **注意力障碍** (Attention deficit) 和 过动冲动 (Hypotheticity)**
 
-## 核心症状
+## 核心症状体现
 
 1. 注意力涣散；
 2. 自制力弱，导致时间管理差，问题解决能力差；
@@ -43,7 +43,7 @@
 
 
 
-### 注意力缺失
+### 1. 注意力缺失
 
 注意力确实就是我们平常说的不抓心，具体的症状包括但不限于：
 
@@ -69,7 +69,7 @@
 
 
 
-注意力不足会导致一些问题，例如：
+#### 注意力不足会导致一些问题：
 
 - 一下子忘了要讲什么；
 - 人多的地方难以交谈——患者的大脑对干扰的过滤机制有一定缺陷，无法像正常人一样过滤杂音；
@@ -84,7 +84,7 @@
 
 
 
-### 过动/冲动
+### 2. 过动/冲动
 
 - 坐着的时候动来动去；
 - 难以长时间持续静坐；
@@ -98,11 +98,15 @@
 
 上述的所有特点，都可以归为一个根本原因，就是自我控制能力差。正常人在书桌前工作一小时，一般是完全专注工作了一小时，而ADHD患者因为无法集中注意力，可能在60分钟里，40分钟是在走神的。这种情况可能造成患者从小就被家长数落，获得的鼓励比正常人更加少，而具有更多的挫折感。这样的挫折感会给患者造成对事物在认知上有障碍，正常人可能很有信心的一件事情，患者可能就会认为自己没有能力去做而自暴自弃，其表象在旁人看来就是懒惰。而这样的状况可能会造成恶性的循环。
 
+
+
 ------
 
 ## **从神经心理学 (neuropsychology）研究ADHD的表象**
 
 #### 脑部额叶发育 (Lack of Frontal Lobe Development in Brain)
+
+![brain](https://data.whicdn.com/images/50993413/original.png)
 
 由于脑部前端的额叶发展的不全面或者滞缓会直接到时候执行能力上的缺陷。因为额叶的主要功能就是执行管理能力(motor skill)。通过判断，分析，和思考结合而成的一种向外引导的一种行为决定。打个比方说，你现在要学习系鞋带，那么要系鞋带这一系列的动作就需要进行一个顺序的管理，所以小屁孩就需要先坐下，然后抬起小蹄子，让手可以接触到鞋带，然后绑鞋带。当然了，坐下的的时候，额叶就会命令动作和小脑(cerebellum) 的反应来调节平衡(balance)。
 
@@ -112,7 +116,9 @@
 
 #### **ADHD是神经信息传输 (Information Processing Theory)出现功能性障碍**
 
-neurotransmitter photo [^c]
+![neurotransmitter photo](http://www.memorylossonline.com/glossary/images/neurotransmitter.jpg)
+
+
 
 说到信息的传输我们就要说到传输信息的介质：神经递质(neurotransmitter)，如字面描述，就是一个快递包裹，在出发站的地方装了东西，然后跑到另一边去把信息扔给目的地，然后再跑回去出发点再去搬东西。反复不断的运动由此产生了信息的传输。神经递质是的控制能力其实归根到底就是通过Dopamine所产生的刺激来活动的。神经递质是个懒家伙，懒到可以和小懒熊相睥睨的程度，要他活动，需要Dopamine来捅一下才能工作。 
 
@@ -130,9 +136,40 @@ neurotransmitter photo [^c]
 
 ------
 
-#### **环境对ADHD的影响因素**
+#### **环境对ADHD产生和发展的影响**
 
-相比于西方，从所接触到的论文数量来看，
+虽然说基因影响的占比非常的大，但是并不能排除环境对ADHD产生产生了一个辅助的影响。环境的影响因素可以分为三个部分：在胎儿期生长的时候出现障碍和置缓；在儿童发展期出现了决定性的转变和重大影响；成年之后生活环境对个人的影响。虽然说三者都是环境促使ADHD产生和发展，但是其趋势因年龄的增长而呈现出呈U字型的曲线下降。由此得出以下简单的结论：
+
+- 如果小时候没有ADHD的病例史的话，成年之后得ADHD的几率非常的低，甚至可以说是没有；
+- 如果在直亲两到三代方面都没有ADHD的症状的话，那么成年之后得ADHD的几率也可几乎为零
+- 环境固然可以影响ADHD产生，但是并不是主要的原因，内因大于外因。除非脑补受到重伤才能达到影响到基因转变而影响ADHD的产生和发展
+
+
+
+##### 胎儿期脑部生长置缓
+
+从阶段上来看，胎儿在对脑部发育的状态可谓是均衡的，也就是说，从最开始到最后成形，每一个阶段都是胎儿发育大脑的重要阶段。只要在其中稍有一点影响，都会影响整体的发展。而影响胎儿发育的主要因素有以下以及其带来的重要影响: 
+
+1. 首要的是基因，由于基因产生的裂变，会让基因的缺陷无限扩大和显现，会对后期的生长产生决定性的影响。最明显的影响就是遗传疾病；
+2. 母体本身的营养基础还有携带的各种物质，比如病菌和疾病，都极有可能在培养幼体的时候传播给幼体，比如营养不良；
+3. 后天对胎儿的培养所摄入的外在物质， 比如药物，烟，刺激性食物。药物可以抑制或者刺激胎儿的发育，由此导致发育不平衡极有可能导致胎儿畸形。烟或者雪茄极大可能导致胎儿物质供给不足，缺氧由此抑制胎儿的正常发展。
+4. ​
+
+
+
+![Fetal Development](http://www.chartvalley.com/wp-content/uploads/2017/02/templates-pregnancy-chart-month-by-month-pregnancy-chart-month-by-month-pregnancy-diet-chart-month-by-month-pdf-in-hindi-pregnancy-chart-month-by-month-recommendations-pregnancy-diet.jpg)
+
+##### 生长期的发展阻碍
+
+
+
+##### 环境导致基因的改变
+
+
+
+
+
+
 
 ------
 
@@ -140,7 +177,7 @@ neurotransmitter photo [^c]
 
 ### **行为发展心理学**
 
-图片c[^d]
+
 
 - 意志力障碍 (motivation deficit) ADD的人做事情缺乏动力，只是凭感觉做事情，高兴的时候多做一点，不高兴的时候就完全不做。不会通过思考和大脑的命令来约束自己的行为，总是为所欲为。好比过马路不走斑马线。
 - 记忆力下降 (lack of memory) 一般来说，记忆都是需要通过收集信息，过滤信息，重新整理信息，信息分析，信息归类，然后进行短期的工作记忆 (就是一瞬间可以马上记住但是过后就会马上忘掉)，最后通过反调刺激大脑来达到最后的阶段: 长期记忆。 
@@ -157,7 +194,7 @@ neurotransmitter photo [^c]
 
 #### **多动症疗法**
 
-treatment photo listing [^e]
+![treatment photo listing](https://image.flaticon.com/icons/png/512/81/81665.png)
 
 常用自身调节方法
 
@@ -298,7 +335,7 @@ ADHD 患者的时间观念很弱，因为他们无法估计一段时间的长短
 
 ### 开始规划时间吧！
 
-1. 确定一个目标，一定要设置 Deadline ！
+1. 确定一个目标，一定要设置 Deadline！
 2. 将目标分为许多小任务，同样要设定 Deadline！
 3. 现在给任务排定先后次序，设定优先级；
 4. 估计工作完成所需的时间（量力而为）；
@@ -323,8 +360,6 @@ ADHD 患者的时间观念很弱，因为他们无法估计一段时间的长短
 
 因为人的注意力是有容量限制的，而 ADHD 患者在这一方面的能力更加弱，所以可以借助奖励机制加上碎片化工作时间的方式来增加工作效率。这里要介绍 **番茄工作法** ，推荐一个应用叫做 Forest ，它可以在每次完成番茄钟之后为你种下一颗快乐的小树，番茄钟的长度可以自己设定，有注意力问题的人可以将时间设定得更短，然后在休息期间起来打一杯水，或者吃一颗糖，给自己奖励。
 
-[^]: 
-
 ------
 
 **相关参考书籍**
@@ -343,11 +378,6 @@ https://www.psychiatry.org/psychiatrists/practice/dsm
 
 Reference： 
 
-[^a]: https://www.sovhealth.com/wp-content/uploads/2017/06/Diagnosing-ADHD-in-adult-patients-is-challenging.jpg
-[^b]: http://adhd-institute.com/wp-content/uploads/2016/09/b-rate-of-cortical-maturation.jpg
-[^c]: http://www.memorylossonline.com/glossary/images/neurotransmitter.jpg
-[^d]: https://data.whicdn.com/images/50993413/original.png
-[^e]: https://image.flaticon.com/icons/png/512/81/81665.png
 [^1]: https://zh.wikipedia.org/wiki/%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%B8%8D%E8%B6%B3%E9%81%8E%E5%8B%95%E7%97%87
 [^2]: 
 [^3]: https://www.psychiatry.org/psychiatrists/practice/dsm
