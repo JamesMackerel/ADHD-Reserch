@@ -92,7 +92,7 @@ ADHD 症状分为*两大类*: **注意力障碍** (Attention deficit) 和 **过�
 
 ![brain](https://data.whicdn.com/images/50993413/original.png)
 
-由于脑部前端的额叶发展的不全面或者滞缓会直接到时候执行能力上的缺陷。因为额叶的主要功能就是执行管理能力(motor skill)。通过判断，分析，和思考结合而成的一种向外引导的一种行为决定。打个比方说，你现在要学习系鞋带，那么要系鞋带这一系列的动作就需要进行一个顺序的管理，所以小屁孩就需要先坐下，然后抬起小蹄子，让手可以接触到鞋带，然后绑鞋带。当然了，坐下的的时候，额叶就会命令动作和小脑(cerebellum) 的反应来调节平衡(balance)。
+由于脑部前端的额叶发展的不全面或者滞缓会直接到时候执行能力上的缺陷。而发展不全明主要体现在脑部前额并没有完全发育到左右两边在前段合拢同时互相连接形成一个完成的脑部结构。因为额叶的主要功能就是执行管理能力(motor skill)。通过判断，分析，和思考结合而成的一种向外引导的一种行为决定。同时在思考过程中，并不能形成一个完成的脑回路过程导致过程的中断。打个比方说，你现在要学习系鞋带，那么要系鞋带这一系列的动作就需要进行一个顺序的管理，所以小屁孩就需要先坐下，然后抬起小蹄子，让手可以接触到鞋带，然后绑鞋带。当然了，坐下的的时候，额叶就会命令动作和小脑(cerebellum) 的反应来调节平衡(balance)。
 
 因为当小孩子发育到了七八岁的时候，脑部结果就会逐步趋向成熟。而成熟的标志就是，小孩子不仅仅会开始判断对错，还会开始用抽象的方法来对认识的世界定义化，比如，孝敬父母就是要在喝茶的时候要先给父母奉茶；再比如，小孩子可以用计量单位来概念化地表达他们的需求：250毫升的水是多少这种问题。与此同时，他们的执行功能也会因为脑补发育的健全随之而提升。执行功能如上诉说说，进行一些更加复杂的动作：做饭。
 
@@ -354,17 +354,27 @@ ADHD 患者的时间观念很弱，因为他们无法估计一段时间的长短
 
 # 总结
 
+ADHD 其实有利也有弊，但是只要适当运用和调节，其实和正常人无异。若是善于运用，则可以事半功倍，不然的话将是一事无成。以下的相关参考有关于ADHD的成功故事的视频可供参考。
+
 
 
 ------
 
-**相关参考书籍**
+**相关参考**
 
-关于心理疾病的病理案例诊断手册[^3]
+[关于心理疾病的病理案例诊断手册](https://www.psychiatry.org/psychiatrists/practice/dsm)
 
-https://www.psychiatry.org/psychiatrists/practice/dsm
+[Ted Talk 视频-- ADHD 成功故事](https://www.youtube.com/watch?v=JiwZQNYlGQI)
 
+[ADHD's advantage ADHD的优点的视频](https://www.youtube.com/watch?v=n2EVEYmeSqg)
 
+[ADHD As a Difference in Cognition视频](https://www.youtube.com/watch?v=uU6o2_UFSEY)
+
+[Interview of ADHD's Child视频](https://www.youtube.com/watch?v=-IO6zqIm88s)
+
+[ADD & ADHD Study Music with Dual Hemispheric Stimulation   **ADHD的Youtube音乐治疗**](https://www.youtube.com/watch?v=KXPIfMyj7mI)
+
+[ADHD的原理视频](https://www.youtube.com/watch?v=RMaCE5RT54c)
 
 
 
