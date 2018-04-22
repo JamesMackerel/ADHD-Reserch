@@ -1,6 +1,9 @@
 #ADHD？没什么大不了
 
-==加一个作者的名字（格式的话你定就可以了）==
+Author: Cecilia Zhong 小七； James
+Publish Date: December 28th, 2017
+
+
 
 开篇：此文章主要是帮助更多的人从相对科学的角度去了解和认识ADHD，而不是把它当作一个无法克服的外因来对待。从而，才可以从根本上去解决生活上的种种关于和可能关于ADHD所造成的问题。*
 
@@ -428,5 +431,5 @@ Reference：
 
 ---
 
-==加一个版权的说明==
+ADHD？没什么大不了 by Cecilia & James is licensed under a (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.)[https://creativecommons.org/licenses/by-nc-sa/4.0/]
 
