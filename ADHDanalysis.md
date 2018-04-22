@@ -1,6 +1,7 @@
 #ADHD？没什么大不了
 
 Author: Cecilia Zhong 小七； James
+
 Publish Date: December 28th, 2017
 
 
@@ -431,5 +432,5 @@ Reference：
 
 ---
 
-ADHD？没什么大不了 by Cecilia & James is licensed under a (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.)[https://creativecommons.org/licenses/by-nc-sa/4.0/]
+ADHD？没什么大不了 by Cecilia & James is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
