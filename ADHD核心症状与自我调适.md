@@ -1,4 +1,4 @@
-# ADHD的症状
+# ADHD的症状材料分析
 
 ADHD即Attention Deficit/Hyperactivity Disorder，中文为“注意力不足多动症”。它涵盖了注意力缺失症（Attention Deficit Disorder, ADD）[^1]。
 
