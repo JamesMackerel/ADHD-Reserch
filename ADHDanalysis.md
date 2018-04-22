@@ -424,7 +424,6 @@ ADHD的改变和改善，主要是内在问题和心态问题。如果一个人�
 Reference： 
 
 [^1]: https://zh.wikipedia.org/wiki/%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%B8%8D%E8%B6%B3%E9%81%8E%E5%8B%95%E7%97%87
-[^2]: 
 [^3]: https://www.psychiatry.org/psychiatrists/practice/dsm
 [^4]: https://www.healthcentral.com/article/adhd-and-conduct-disorder
 
